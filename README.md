@@ -2,7 +2,7 @@ Hi Im @TheoW03
 
 1st year Universitity student. CS major 
 
-I like to watch anime, likes animation. tbh if i knew how to draw, i would be doing that. Gaming. hanging with friends
+I like to watch anime, likes animation. tbh if i knew how to draw, i would be doing that. Gaming. and hanging with friends
 
 knows how to code in Python JS and Java 
 
