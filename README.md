@@ -8,6 +8,6 @@ knows how to code in Python JS and Java
 
 I want to try web dev. learn HTML, CSS React.JS etc. . and Systems level programming. C/C++ 
 
-Im also very passionate with programming and CS. and enjoy doing 
+Im also very passionate with programming and CS. to the point it can be problematic.
 
 I make discord bots for fun
