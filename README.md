@@ -6,7 +6,7 @@ I like to watch anime, likes animation. tbh if i knew how to draw, i would be do
 
 knows how to code in Python JS and Java 
 
-I want to try web dev. learn HTML, CSS React.JS etc. . and Systems level programming. C/C++ 
+I want to learn HTML, CSS, React.JS etc and Systems level programming. C/C++. 
 
 Im also very passionate with programming and CS. to the point it can be problematic.
 
