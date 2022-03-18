@@ -11,3 +11,5 @@ I want to learn HTML, CSS, React.JS etc and Systems level programming. C/C++.
 Im also very passionate with programming and CS. to the point it can be problematic.
 
 I make discord bots for fun. and been trying to remake googles User interface to learn CSS
+
+I use github as a cloud saver
