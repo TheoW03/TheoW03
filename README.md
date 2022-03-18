@@ -1,4 +1,3 @@
-#theoW03
 
 Hi Im @TheoW03 
 
