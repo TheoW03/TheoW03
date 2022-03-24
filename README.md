@@ -2,9 +2,11 @@
 # Hi Im @TheoW03 
 
 
+He/him
+
 I am a 1st year Universitity student. CS major 
 
-I like to watch anime. Gaming. and hanging with friends. and of course I love to program
+I like to watch anime. Gaming. and hanging with friends. and of course I love to program.
 
 I know how to code in Python JS,HTML,CSS and Java
 
@@ -13,5 +15,5 @@ I want to learn more about webdev and Systems level programming. C/C++. also wan
 what Im doing to acheieve this is I downloaded codeblocks for C/C++ and Game modding I downloaded Forge and the minecraft mod framework
 trying to figure out how to set it up but Ill get it. hopefully. and webdev. just check my repos
 
-Im also very passionate with programming and CS. to the point it can be problematic.
+Im also very passionate with programming and CS. to the point it can be problematic at times, but I love it.
 
