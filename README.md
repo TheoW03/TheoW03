@@ -19,6 +19,8 @@ Im also very passionate with programming and CS. to the point it can be problema
 
 # current projects Im working on
 
-1. pong on uity
+1. pong on unity
 2. Timer.com 
 3. minecraft mod attempts
+4. discord bot
+
