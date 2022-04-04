@@ -17,3 +17,8 @@ trying to figure out how to set it up but Ill get it. hopefully. and webdev. jus
 
 Im also very passionate with programming and CS. to the point it can be problematic at times, but I love it.
 
+# current projects
+
+1. pong on uity
+2. Timer.com 
+3. minecraft mod attempts
