@@ -17,10 +17,3 @@ trying to figure out how to set it up but Ill get it. hopefully. and webdev. jus
 
 
 
-# current projects Im working on
-
-1. pong on unity
-2. Timer.com 
-3. minecraft mod attempts
-4. discord bot
-
