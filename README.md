@@ -4,7 +4,7 @@
 
 He/him
 
-I am a 1st year Universitity student. CS major 
+I am a 2nd year Universitity student. CS major 
 
 I like to watch anime. Gaming. and hanging with friends. and of course I love to program.
 
