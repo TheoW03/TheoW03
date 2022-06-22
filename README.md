@@ -10,5 +10,5 @@ I like to watch anime. Gaming. and hanging with friends. and of course I love to
 
 I know how to code in Python JS,HTML,CSS, Java, C#
 
-I been doing alot of gamedev. And I love it. 
+I been doing alot of gamedev on unity. And I love it. favorite thing I make using programming. 
 
