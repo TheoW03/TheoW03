@@ -10,5 +10,4 @@ I enjoy watching anime, gaming, hanging out with friends, and of course I love t
 
 I know how to program in Python JavaScript ,HTML, CSS, Java, C# 
 
-I been doing alot of gamedev on Unity, and I love it. I also know how to make discord bots and basic websites. 
-
+I been doing alot of gamedev on Unity, and I love it. 
