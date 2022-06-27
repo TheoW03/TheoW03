@@ -20,3 +20,6 @@ e^(i*2pi) = 1
 proof for this is. because e^i rotates 
 90 degrees on the complex plain + the cirlce constants e^(i * mutiple of pi) will act like 
 the cosine op. so e^(i *  mutiple of pi) = cos(mutilple of pi)
+
+note: this only works with pi and 2pi. anyother number will be a complex number. of the cosine op.
+
