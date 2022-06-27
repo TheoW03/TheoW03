@@ -12,7 +12,7 @@ I know how to program in Python, JavaScript, HTML, CSS, Java, C#
 
 I been doing alot of gamedev on Unity, and I love it. 
 
-some math.  that I learned and will love to share. 
+# some math.  that I learned and will love to share. 
 
 e^(i*pi) = -1
 e^(i*2pi) = 1
