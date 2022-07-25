@@ -18,5 +18,5 @@ I been doing alot of gamedev on Unity, minecraft modding, and alot of attempts t
 also have a small interest in applied math
 
 
-![Cpp_logo](https://user-images.githubusercontent.com/95878514/180693669-2b77f860-0413-464a-9309-28774bf0b845.png)
+![image](https://user-images.githubusercontent.com/95878514/180693736-90117c7a-27d5-4045-8ea6-8937b0e907da.png)
 
