@@ -18,5 +18,4 @@ I been doing alot of gamedev on Unity, minecraft modding, and alot of attempts t
 also have a small interest in applied math
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](/Downloads/![Cpp_logo](https://user-images.githubusercontent.com/95878514/180693647-35abd9a6-10d0-4915-bcc6-2a568831255b.png))
