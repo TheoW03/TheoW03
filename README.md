@@ -1,4 +1,4 @@
-# welcome to my page. @TheoW03
+# Welcome to my page. @TheoW03
 
 
 pronouns: He/him
@@ -12,4 +12,5 @@ I know how to program in Python, JavaScript, HTML, CSS, Java, C#
 I been doing alot of gamedev on Unity, minecraft modding, and alot of attempts to add webscraping to a website I been trying to code
 
 also have a small interest in applied math
+
 
