@@ -13,11 +13,8 @@ I been doing alot of gamedev on Unity, minecraft modding, and alot of attempts t
 
 also have a small interest in applied math
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TheoW03&theme=highcontrast&show_icons=true&count_private=true)
 
 
 
-and I actuallly thought this costed money LMAO
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
