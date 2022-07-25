@@ -18,3 +18,5 @@ I been doing alot of gamedev on Unity, minecraft modding, and alot of attempts t
 also have a small interest in applied math
 
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
