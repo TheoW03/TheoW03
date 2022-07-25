@@ -15,3 +15,6 @@ also have a small interest in applied math
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TheoW03&theme=highcontrast&show_icons=true&count_private=true)
+
+
+and I actuallly thought this costed money LMAO
