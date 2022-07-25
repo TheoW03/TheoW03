@@ -1,5 +1,4 @@
-
-# Hi Im @TheoW03 
+# welcome to my page. @TheoW03
 
 
 pronouns: He/him
