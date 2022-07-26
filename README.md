@@ -14,5 +14,5 @@ also have a small interest in applied math
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Github stats](https://github-readme-stats.vercel.app/api?username=TheoW03&theme=onedark&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&layout=compact)](https://github.com/TheoW03/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=TheoW03&theme=cobalt&show_icons=true&count_private=true)
