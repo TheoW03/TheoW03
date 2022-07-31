@@ -1,4 +1,4 @@
-# Welcome to my page. @TheoW03
+# Welcome to my page
 
 pronouns: He/him
 
