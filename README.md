@@ -21,3 +21,5 @@ I been doing alot of gamedev on Unity,c++, python, pretty much any game frame wo
 current proj - procedual gen unity
 
 also have a small interest in applied math
+
+Im this super sticous Lol
