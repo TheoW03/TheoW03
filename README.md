@@ -23,3 +23,5 @@ current proj - procedual gen unity
 also have a small interest in applied math
 
 4 degrees of connection to the queen
+
+Dont involve rasta your say-say. rasta dont work for no CIA 
