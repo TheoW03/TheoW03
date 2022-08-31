@@ -22,6 +22,6 @@ current proj - procedual gen unity
 
 also have a small interest in applied math
 
-4 degrees of connection to the queen
-
-Dont involve rasta your say-say. rasta dont work for no CIA 
+4 degrees of connection to queen elizabeth. 
+and 3 degrees of connections to HIM Ras tafari
+ 
