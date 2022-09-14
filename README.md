@@ -17,7 +17,7 @@ I know how to program in Python, JavaScript, HTML, CSS, Java, C#
 
 I love game dev. and want a career out of it.
 
-current proj - procedual gen unity
+current project - interpter for school. and my minecraft clone.
 
 also have a small interest in applied math
 
