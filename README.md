@@ -15,7 +15,7 @@ I enjoy watching anime, gaming, hanging out with friends, and of course I love t
 
 I know how to program in Python, JavaScript, HTML, CSS, Java, C# 
 
-I been doing alot of gamedev on Unity,c++, python, pretty much any game frame work I can get my hands on, minecraft modding, and basic webdev
+I love game dev. and want a career out of it.
 
 current proj - procedual gen unity
 
