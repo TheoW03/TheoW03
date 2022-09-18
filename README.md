@@ -2,7 +2,7 @@
 
 pronouns: He/him
 
-not a POC. I am a child of a slave. a solider for jah. 
+not a POC. I am a child of a slave. a solider for jah. one of Jahs ppl. 
 
 # stats
 
