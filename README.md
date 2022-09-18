@@ -2,7 +2,7 @@
 
 pronouns: He/him
 
-not a POC. I am a decdedant of slave.
+not a POC. I am an african decdedant of slave.
 
 # stats
 
