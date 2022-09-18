@@ -9,8 +9,6 @@ pronouns: He/him
 
 # intro
 
-I am child of Jah. and of a slave 
-
 I am a 2nd year university student, Computer Science Major  
 
 I enjoy watching anime, gaming, hanging out with friends, and of course I love to program.
