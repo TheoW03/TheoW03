@@ -2,8 +2,6 @@
 
 pronouns: He/him
 
-not a POC. I am an african decdedant of slave.
-
 # stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&theme=cobalt&layout=compact)](https://github.com/TheoW03/github-readme-stats)
@@ -22,5 +20,3 @@ I love game dev. and want a career out of it.
 current project - interpter for school. and my minecraft clone.
 
 also have a small interest in applied math
-
-God save the king. King Charles III
