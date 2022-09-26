@@ -2,6 +2,8 @@
 
 pronouns: He/him
 
+person of the slave trade. Will be forever loving jah
+
 # stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&theme=cobalt&layout=compact)](https://github.com/TheoW03/github-readme-stats)
