@@ -2,7 +2,7 @@
 
 pronouns: He/him
 
-person of the slave trade. Will be forever loving jah roots reggae
+person of the slave trade. Jah people
 
 # stats
 
