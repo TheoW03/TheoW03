@@ -2,7 +2,7 @@
 
 pronouns: He/him
 
-person of the slave trade. Jah people
+person of the slave trade. a solider for jah
 
 # stats
 
