@@ -9,11 +9,11 @@ pronouns: He/him
 
 # intro
 
-I am a 2nd year university student, Computer Science Major  
+I am a 2nd year university student, Computer Science Major with 2 minors. applied math and inf game design. 
 
 I enjoy watching anime, gaming, hanging out with friends, and of course I love to program.
 
-I know how to program in Python, JavaScript, HTML, CSS, Java, C# 
+I know how to program in Python, JavaScript, HTML, CSS, Java, C# and know how to use Unity, Pygame,forge , Discords bot API and roblox studio basics. 
 
 I love game dev. and want a career out of it.
 
