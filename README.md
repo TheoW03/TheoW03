@@ -20,5 +20,3 @@ I love game dev. and want a career out of it.
 current project - interpter for school. and my minecraft clone.
 
 also have a small interest in applied math
-
-I yearn to code but school isnt letting me :(
