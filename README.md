@@ -17,6 +17,6 @@ I know how write code in Python, JavaScript, HTML, CSS, Java, C#,C and know how 
 
 I love game dev. and want a career out of it.
 
-current project - interpter for school. and my minecraft clone.
+current project - interpter for school. and my minecraft clone and Shank IM. which is the interpter for school but better
 
 also have a small interest in applied math
