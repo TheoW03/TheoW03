@@ -10,13 +10,13 @@ pronouns: He/him
 
 I am a 2nd year university student, Computer Science Major with 2 minors. applied math and inf game design. 
 
-I enjoy watching anime, gaming, hanging out with friends, and of course I love to program.
+I enjoy prgramming, watching anine, I love Slice of life. and hanging with friends
 
 I know how write code in Python, JavaScript, HTML, CSS, Java, C#,C and know how to use Unity, Pygame,forge , Discords bot API and roblox studio basics. 
 
 I love game dev. and want a career out of it.
 
-current project - interpter for school. and my minecraft clone and Shank IM. which is the interpter for school but better
+current project - interpter for school. and my minecraft clone. 
 
 also have a small interest in applied math
 
