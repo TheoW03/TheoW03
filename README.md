@@ -20,3 +20,5 @@ I love game dev. and want a career out of it.
 current project - interpter for school. and my minecraft clone and Shank IM. which is the interpter for school but better
 
 also have a small interest in applied math
+
+![image](https://user-images.githubusercontent.com/95878514/197635382-bdacf12d-91d7-4274-9905-029591587b65.png)
