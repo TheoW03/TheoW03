@@ -6,7 +6,6 @@ pronouns: He/him
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TheoW03&theme=cobalt&show_icons=true&count_private=true)
-![image](https://user-images.githubusercontent.com/95878514/197635180-ffa79fdd-c5c5-421d-9dda-10d4546ac6e0.png)
 
 # intro
 
