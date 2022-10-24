@@ -20,4 +20,3 @@ current project - interpter for school. and my minecraft clone and Shank IM. whi
 
 also have a small interest in applied math
 
-![java](https://user-images.githubusercontent.com/95878514/197635828-f3586aca-e825-45c2-8821-916695ba5e5f.svg)
