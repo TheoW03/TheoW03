@@ -2,8 +2,7 @@
 
 pronouns: He/him
 
-Im suffering from code addiction
-
+🎃 spooky season 🎃
 # stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
