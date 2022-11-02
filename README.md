@@ -10,9 +10,9 @@ pronouns: He/him
 
 I am a 2nd year university student, Computer Science Major with 2 minors. applied math and inf game design. 
 
-I enjoy prgramming, watching anine, I love Slice of life. and hanging with friends
+I enjoy prgramming, watching anine and hanging with friends
 
-I code in Java,C#, JavaScript,python,HTML, CSS,C and know how to use Unity, Pygame, forge , Discords bot API and roblox studio basics. 
+I code in Java,C#, JavaScript,python,HTML, CSS,C and know how to use Unity, Pygame, forge , and Discords bot API 
 
 I love game dev. and want a career out of it.
 
