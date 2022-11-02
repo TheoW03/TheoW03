@@ -1,6 +1,6 @@
-# Welcome to my page
+# Welcome to my github
 
-pronouns: He/him
+<b>pronouns:</b> He/him
 
 lemme give a foxes explanation 🦊
 
@@ -8,17 +8,21 @@ lemme give a foxes explanation 🦊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TheoW03&theme=cobalt&show_icons=true&count_private=true)
-# intro
+
+
+<h2> what I know/projects </h2>
+
+<b>what I know -</b> Java, C#, JavaScript,python,HTML, CSS,C
+
+<b>current project -</b> a programming langauage, my minecraft clone and a whole bunch of unity game ideas. Cant wait until Break T~T
+
+<h2> about myself </h2>
 
 I am a 2nd year university student, Computer Science Major with 2 minors. applied math and inf game design. 
 
 I enjoy prgramming, watching anine and hanging with friends
 
-I code in Java,C#, JavaScript,python,HTML, CSS,C and know how to use Unity, Pygame, forge , and Discords bot API 
-
 I love game dev. and want a career out of it.
-
-current project - a programming langauage. and my minecraft clone. 
 
 also have a small interest in applied math
 
