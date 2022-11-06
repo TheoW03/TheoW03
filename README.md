@@ -13,6 +13,7 @@ lemme give a foxes explanation 🦊
 <h2> what I know/projects </h2>
 
 <b>what I know -</b> Java, C#, JavaScript,python,HTML, CSS,C, SQL 
+
 <b>what frameworks I know -</b> unity, pyagame, Discord botting API(Js and python), Java swing, tkinter and many more...
 
 <b>current project -</b> a programming langauage, my minecraft clone and a whole bunch of unity game ideas. Cant wait until Break T~T
