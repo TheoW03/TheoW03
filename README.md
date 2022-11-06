@@ -14,7 +14,7 @@ lemme give a foxes explanation 🦊
 
 <b>what I know -</b> Java, C#, JavaScript,python,HTML, CSS,C, SQL (my perfered favorite is Java and C#) 
 
-<b>what frameworks I know -</b> unity, pyagame, Discord botting API(Js and python), Java swing, tkinter and many more...
+<b>what frameworks I know -</b> unity, pyagame, Discord botting API(Js and python), Java swing, tkinter, Fabric modding API for minecraft and many more...
 
 <b>current project -</b> a programming langauage, my minecraft clone and a whole bunch of unity game ideas. Cant wait until Break T~T
 
@@ -22,7 +22,7 @@ lemme give a foxes explanation 🦊
 
 I am a 2nd year university student, Computer Science Major with 2 minors. applied math and inf game design. 
 
-I enjoy prgramming, watching anine and hanging with friends
+I enjoy prgramming, watching anime and hanging with friends
 
 I love game dev. and want a career out of it.
 
