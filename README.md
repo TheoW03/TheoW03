@@ -12,7 +12,7 @@ lemme give a foxes explanation 🦊
 
 <h2> what I know/projects </h2>
 
-<b>what I know -</b> Java, C#, JavaScript,python,HTML, CSS,C, SQL 
+<b>what I know -</b> Java, C#, JavaScript,python,HTML, CSS,C, SQL (my perfered favorite is Java and C#) 
 
 <b>what frameworks I know -</b> unity, pyagame, Discord botting API(Js and python), Java swing, tkinter and many more...
 
