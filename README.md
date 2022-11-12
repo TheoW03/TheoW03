@@ -12,11 +12,11 @@ lemme give a foxes explanation 🦊
 
 <h2> what I know/projects </h2>
 
-<b>what I know -</b> Java, C#, JavaScript,python,HTML, CSS,C, SQL (my perfered favorite is Java and C#) 
+<b>what I know -</b> Java, C#, JavaScript,python,HTML, CSS,rust, SQL (my perfered favorite is Java and C#) 
 
 <b>what frameworks I know -</b> unity, pyagame, Discord botting API(Js and python), Java swing, tkinter, Fabric modding API for minecraft and many more...
 
-<b>current project -</b> a programming langauage, my minecraft clone and a whole bunch of unity game ideas. Cant wait until Break T~T
+<b>current project -</b> a programming langauage,learning rust, my minecraft clone and a whole bunch of unity game ideas. Cant wait until Break T~T
 
 <h2> about myself </h2>
 
