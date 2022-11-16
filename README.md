@@ -24,8 +24,6 @@ I am a 2nd year university student, Computer Science Major with 2 minors. applie
 
 I enjoy prgramming, playing the occasional game, watching anime and hanging with friends
 
-I love game dev. and want a career out of it.
-
 also have a small interest in applied math, and animation. (the different shows) 
 
 github. is my resume/intro 
