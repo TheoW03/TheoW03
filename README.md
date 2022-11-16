@@ -26,4 +26,3 @@ I enjoy prgramming, playing the occasional game, watching anime and hanging with
 
 also have a small interest in applied math, and animation. (the different shows) 
 
-github. is my resume/intro 
