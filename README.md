@@ -32,8 +32,7 @@ I am a 2nd year university student, Computer Science Major with 2 minors. applie
 
 I enjoy programming, playing the occasional game, watching anime and hanging with friends
 
-also have a small interest in applied math, and animation. (the different shows) 
-
+I also consider myself to be in the animation fandom. (the different shows) 
 
 <h2> contacts </h2>
 <p align="left"> <a href="https://discord.com/users/TheoW#4679" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
