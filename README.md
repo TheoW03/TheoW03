@@ -13,7 +13,7 @@ lemme give a foxes explanation 🦊
 
 <h2> what I know/projects </h2>
 
-### langugaes I know
+### langugaes
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -24,9 +24,9 @@ lemme give a foxes explanation 🦊
 
 my favorite is Java/C#
 
-### frame works 
+### frameworks/signficant libraries 
 
-<b>what frameworks/libraries/API's/Other I know -</b> unity, pyagame, Discord botting API(Js and python), Java swing, tkinter, Fabric modding API for minecraft and many more...
+unity, pyagame, Discord botting API(Js and python), Java swing, tkinter, Fabric modding API for minecraft and many more...
 
 <h2>projects / desired topics </h2>
 
