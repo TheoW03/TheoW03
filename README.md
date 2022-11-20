@@ -29,4 +29,5 @@ also have a small interest in applied math, and animation. (the different shows)
 
 hmu on discord if you want todo a reasonable project with me. or need someone to talk too.
 
+<h2> contacts </h2>
 <p align="left"> <a href="https://discord.com/users/TheoW#4679" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
