@@ -10,9 +10,21 @@ lemme give a foxes explanation 🦊
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TheoW03&theme=cobalt&show_icons=true&count_private=true)
 
 
+
 <h2> what I know/projects </h2>
 
-<b>what I know -</b> Java, C#, JavaScript,python,HTML, CSS,rust, SQL (my perfered favorite is Java and C#) 
+### programming langs I know
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<img width="36" height="36"src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust.svg>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> C#, HTMM, CSS , and many more... </p>
+
+my favorite is Java/C#
+
+### other programming stuff
 
 <b>what frameworks I know -</b> unity, pyagame, Discord botting API(Js and python), Java swing, tkinter, Fabric modding API for minecraft and many more...
 
