@@ -26,9 +26,11 @@ my favorite is Java/C#
 
 ### other programming stuff
 
-<b>what frameworks I know -</b> unity, pyagame, Discord botting API(Js and python), Java swing, tkinter, Fabric modding API for minecraft and many more...
+<b>what frameworks/libraries/API's/Other I know -</b> unity, pyagame, Discord botting API(Js and python), Java swing, tkinter, Fabric modding API for minecraft and many more...
 
 <b>current project -</b> a programming langauage,learning rust, my minecraft clone and a whole bunch of unity game ideas. Cant wait until Break T~T
+
+<b>favorite topic in programming- </b> vitrtually everything. with a bias towards game dev
 
 <h2> about myself </h2>
 
