@@ -24,7 +24,7 @@ lemme give a foxes explanation 🦊
 
 my favorite is Java/C#
 
-### other programming stuff
+<h2>other programming stuff</h2>
 
 <b>what frameworks/libraries/API's/Other I know -</b> unity, pyagame, Discord botting API(Js and python), Java swing, tkinter, Fabric modding API for minecraft and many more...
 
