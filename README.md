@@ -6,8 +6,6 @@ Hi, I am Theo. I am a 2nd year computer science major math minor and game design
 
 I am very passionate about programming and is my favorite thing todo for fun. Aside from programming i like watching anime and gaming
 
-lemme give a foxes explanation 🦊
-
 # stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,7 +15,6 @@ lemme give a foxes explanation 🦊
 
 <h2> what I know/projects </h2>
 
-### langugaes
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp.svg" width="36" height="36" alt="C#" /></a>
@@ -29,9 +26,9 @@ lemme give a foxes explanation 🦊
 
 </p>
 
-<b>frameworks/signifincat libraries I know- </b> unity, pyagame, Discord botting API (JS's and python's), Java swing, tkinter, Fabric modding API for minecraft and many more...
-
 <b>current project -</b> a programming langauage,learning rust, my minecraft clone and a whole bunch of unity game ideas. Cant wait until Break T~T
+
+<b>frameworks/signifincat libraries I know- </b> unity, pyagame, Discord botting API (JS's and python's), Java swing, tkinter, Fabric modding API for minecraft and many more...
 
 <h2> contacts </h2>
 <p align="left"> <a href="https://discord.com/users/TheoW#4679" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
