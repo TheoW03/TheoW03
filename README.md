@@ -2,6 +2,10 @@
 
 <b>pronouns:</b> He/him
 
+Hi, I am Theo. I am a 2nd year computer science major math minor and game design minor in university
+
+I am very passionate about programming and is my favorite thing todo for fun. Aside from programming i like watching anime and gaming
+
 lemme give a foxes explanation 🦊
 
 # stats
@@ -25,15 +29,9 @@ lemme give a foxes explanation 🦊
 
 </p>
 
-<b>frameworkws/signifincat libraries I know- </b> unity, pyagame, Discord botting API (JS's and python's), Java swing, tkinter, Fabric modding API for minecraft and many more...
+<b>frameworks/signifincat libraries I know- </b> unity, pyagame, Discord botting API (JS's and python's), Java swing, tkinter, Fabric modding API for minecraft and many more...
 
 <b>current project -</b> a programming langauage,learning rust, my minecraft clone and a whole bunch of unity game ideas. Cant wait until Break T~T
-
-<h2> about myself </h2>
-
-I am a 2nd year university student, Computer Science Major with 2 minors. applied math and inf game design. 
-
-I enjoy programming, playing the occasional game, watching anime and hanging with friends
 
 <h2> contacts </h2>
 <p align="left"> <a href="https://discord.com/users/TheoW#4679" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
