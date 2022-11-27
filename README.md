@@ -22,7 +22,7 @@ lemme give a foxes explanation 🦊
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a></p>
 
-<b>frameworkws/signifincat libraries I know- </b>unity, pyagame, Discord botting API(Js and python), Java swing, tkinter, Fabric modding API for minecraft and many more...
+<b>frameworkws/signifincat libraries I know- </b> unity, pyagame, Discord botting API(JS and python), Java swing, tkinter, Fabric modding API for minecraft and many more...
 
 <b>current project -</b> a programming langauage,learning rust, my minecraft clone and a whole bunch of unity game ideas. Cant wait until Break T~T
 
@@ -31,8 +31,6 @@ lemme give a foxes explanation 🦊
 I am a 2nd year university student, Computer Science Major with 2 minors. applied math and inf game design. 
 
 I enjoy programming, playing the occasional game, watching anime and hanging with friends
-
-I also consider myself to be in the animation fandom. (the different shows) 
 
 <h2> contacts </h2>
 <p align="left"> <a href="https://discord.com/users/TheoW#4679" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
