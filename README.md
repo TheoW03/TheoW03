@@ -1,8 +1,10 @@
 # Welcome to my github
 
+<b>name: </b> Theo
+
 <b>pronouns:</b> He/him
 
-Hi, I am Theo. I am a 2nd year computer science major math minor and game design minor in university
+<b> intro: </b> I am a 2nd year computer science major math minor and game design minor in university
 
 I am very passionate about programming and is my favorite thing todo for fun. Aside from programming i like watching anime and gaming
 
