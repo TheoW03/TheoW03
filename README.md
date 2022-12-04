@@ -28,7 +28,7 @@ I am very passionate about programming and is my favorite thing todo for fun. As
 
 </p>
 
-<b>current project -</b> a programming langauage,learning rust, my minecraft clone and a whole bunch of unity game ideas. Cant wait until Break T~T
+<b>current project -</b> a programming langauage,learning rust and ASM, my minecraft clone and a whole bunch of unity game ideas. Cant wait until Break T~T
 
 <b>frameworks/signifincat libraries I know- </b> unity, pyagame, Discord botting API (JS's and python's), Java swing, tkinter, Fabric modding API for minecraft and many more...
 
