@@ -1,4 +1,4 @@
-# Welcome to my github
+# 👋hi I am Theo
 
 <b>name: </b> Theo
 
