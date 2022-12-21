@@ -31,6 +31,3 @@ I am very passionate about programming and is my favorite thing todo for fun. As
 <b>current project -</b> trying non engine game dev plan to make more atari games. 
 
 <b>frameworks/signifincat libraries I know- </b> unity, pyagame, Discord botting API (JS's and python's), Java swing, tkinter, Fabric modding API for minecraft and many more...
-
-<h2> contacts </h2>
-<p align="left"> <a href="https://discord.com/users/TheoW#4679" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
