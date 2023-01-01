@@ -6,7 +6,7 @@
 
 <b> intro: </b> I am a 2nd year computer science major math minor and game design minor in university
 
-I am very passionate about programming and is my favorite activity to partake in for amusement. Other activities I partake in, is I like to partake in the media consumption/analysis of foriegn cartoons from Japan, and playing the occasional video game. 
+I am very passionate about programming and is my favorite activity to partake in for amusement. Other activities I partake in, is the consumption/analysis of cartoons from Japan, and playing the occasional video game. 
 
 average otaku nerd.
 
