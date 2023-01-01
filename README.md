@@ -30,4 +30,6 @@ I am very passionate about programming and is my favorite thing todo for fun. As
 
 <b>current project -</b> trying non engine game dev plan to make more atari games. 
 
+<b>what I hope to achive 2023-</b> Learn unity 3D, ASM, OpenGL, and hopefully take this fun hobby to captalism. 
+
 <b>frameworks/signifincat libraries I know- </b> unity, pyagame, Discord botting API (JS's and python's), Java swing, tkinter, Fabric modding API for minecraft and many more...
