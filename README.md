@@ -6,7 +6,9 @@
 
 <b> intro: </b> I am a 2nd year computer science major math minor and game design minor in university
 
-I am very passionate about programming and is my favorite thing todo for fun. Aside from programming i like watching anime and gaming
+I am very passionate about programming and is my favorite activity to partake in for amusement. Other activities I partake in, is I like to partake in the media consumption/analysis of foriegn cartoons from Japan, and playing the occasional video game. 
+
+average otaku nerd.
 
 # stats
 
@@ -15,7 +17,7 @@ I am very passionate about programming and is my favorite thing todo for fun. As
 
 
 
-<h2> what I know/projects </h2>
+<h2> myself as a developer </h2>
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -30,6 +32,6 @@ I am very passionate about programming and is my favorite thing todo for fun. As
 
 <b>current project -</b> trying non engine game dev plan to make more atari games. 
 
-<b>what I hope to achieve 2023-</b> Learn unity 3D, ASM, OpenGL, and hopefully take this fun hobby to captalism. 
+<b>what I hope to achieve 2023-</b> Learn unity 3D, ASM, OpenGL, and earn money from this fun hobby. 
 
 <b>frameworks/signifincat libraries I know- </b> unity, pyagame, Discord botting API (JS's and python's), Java swing, tkinter, Fabric modding API for minecraft and many more...
