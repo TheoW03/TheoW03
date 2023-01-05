@@ -30,7 +30,7 @@ average otaku nerd.
 
 </p>
 
-<b>current project -</b> trying non engine game dev plan to make more atari games. 
+<b>current project -</b> trying non engine game dev plan to make more classic video games. 
 
 <b>what I hope to achieve 2023-</b> Learn unity 3D, ASM, OpenGL, and earn money from this fun hobby. 
 
