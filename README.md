@@ -10,6 +10,8 @@ I am very passionate about programming and is my favorite activity to partake in
 
 average otaku nerd.
 
+pfp source: owetreylp
+
 # stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
