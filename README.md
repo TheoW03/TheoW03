@@ -11,6 +11,7 @@ I am very passionate about programming and is my favorite activity to partake in
 average otaku nerd.
 
 pfp source: owetreylp
+her tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
 
 # stats
 
