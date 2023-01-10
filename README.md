@@ -2,13 +2,17 @@
 
 <b>name: </b> Theo
 
-<b>pronouns:</b> He/him
+<b>pronouns: </b> He/him
 
 <b> intro: </b> I am a 2nd year computer science major math minor and game design minor in university
 
-I am very passionate about programming and is my favorite activity to partake in for amusement. Other activities I partake in, is the consumption/analysis of animation from Japan, and playing the occasional video game. 
+I am very passionate about programming and is my favorite activity to partake in for amusement. I also enjoy the consumption/analysis of animation from Japan, and playing the occasional video game. aswell as making video games. 
 
 average otaku nerd.
+
+pfp source: Owetreylp
+
+her tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
 
 # stats
 
@@ -31,8 +35,7 @@ average otaku nerd.
 
 <b>current project -</b> trying non engine game dev plan to make more classic video games. 
 
-<b>what I hope to achieve 2023-</b> Learn unity 3D, ASM, OpenGL, and earn money from this fun hobby. 
+<b>what I hope to achieve 2023-</b> Learn unity 3D, ASM, OpenGL, and prepare to earn money from this fun hobby. 
 
 <b>frameworks/signifincat libraries I know- </b> unity, pyagame, Discord botting API (JS's and python's), Java swing, tkinter, Fabric modding API for minecraft and many more...
-
 
