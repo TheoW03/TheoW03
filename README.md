@@ -10,10 +10,6 @@ I am very passionate about programming and is my favorite activity to partake in
 
 average otaku nerd.
 
-pfp source: owetreylp
-
-her tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
-
 # stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TheoW03&theme=cobalt&layout=compact=0&date_format=M%20j%5B%2C%20Y%5D&border=00000000&background=00000000&stroke=9C13CB&ring=9412C1D5&fire=C46B2E&currStreakNum=36FEA9&sideNums=825AFFEA&currStreakLabel=FF36F0EA&sideLabels=825AFFEA&dates=825AFFEA)](https://github.com/TheoW03?tab=repositories)
