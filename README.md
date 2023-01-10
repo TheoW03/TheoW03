@@ -18,7 +18,7 @@ her tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TheoW03&theme=cobalt&show_icons=true&count_private=true)
-
+ [![GitHub Streak](https://streak-stats.demolab.com?user=TheoW03&theme=dark-smoky&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&border=00000000&background=00000000&stroke=9C13CB&ring=9412C1D5&fire=C46B2E&currStreakNum=36FEA9&sideNums=825AFFEA&currStreakLabel=FF36F0EA&sideLabels=825AFFEA&dates=825AFFEA)](https://github.com/DynamicApproach?tab=repositories)
 
 
 <h2> myself as a developer </h2>
