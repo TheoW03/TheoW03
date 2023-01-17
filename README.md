@@ -8,7 +8,7 @@
 
 I am very passionate about programming and is my favorite activity to partake in for amusement. I also enjoy the consumption/analysis of animation from Japan, and playing the occasional video game. aswell as making video games. 
 
-average otaku nerd.
+average otaku nerd
 
 pfp source: Owetreylp
 
