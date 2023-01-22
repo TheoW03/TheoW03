@@ -4,7 +4,8 @@
 
 <b>pronouns: </b> He/him
 
-<b> intro: </b> I am a 2nd year computer science major math minor and game design minor in university
+<b> 
+  intro: </b> I am a 2nd year computer science major math minor and game design minor in university
 
 I am very passionate about programming and is my favorite activity to partake in for amusement. I also enjoy the consumption/analysis of animation from Japan, and playing the occasional video game. aswell as making video games. 
 
@@ -32,6 +33,8 @@ her tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 
 </p>
+
+(my favorite is C# and Java)
 
 <b>current project -</b> A tetris remake on unity and I want to do non engine game design.
 
