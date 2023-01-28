@@ -9,6 +9,8 @@ I am a 2nd year univeersity student with major studies in Computer science, with
 
 I mainly make games primarly in unity, sometimes server plugins or mods for minecraft and discord bots.   
 
+aside from programming I also enjoy watching anime and gaming
+
 pfp source: Owetreylp
 
 her tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
