@@ -4,12 +4,10 @@
 
 <b>pronouns: </b> He/him
 
-<b> 
-  intro: </b> I am a 2nd year computer science major math minor and game design minor in university
 
-I am very passionate about programming and is my favorite activity to partake in for amusement. I also enjoy the consumption/analysis of animation from Japan, and playing the occasional video game. aswell as making video games. 
+I am a 2nd year univeersity student with major studies in Computer science, with minor studies in math and Game design. 
 
-average otaku nerd
+I mainly make games primarly in unity, sometimes server plugins or mods for minecraft and discord bots.   
 
 pfp source: Owetreylp
 
