@@ -5,7 +5,7 @@
 <b>pronouns: </b> He/him
 
 
-I am a 2nd year univeersity student with major studies in Computer science, with minor studies in math and Game design. 
+I am a 2nd year uni student with major studies in Computer science, with minor studies in math and Game design. 
 
 I mainly make games primarly in unity, sometimes server plugins or mods for minecraft and discord bots.   
 
