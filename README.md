@@ -7,7 +7,9 @@
 
 I am a 2nd year uni student with major studies in Computer science, with minor studies in math and Game design. 
 
-I mainly make games primarly in unity, sometimes server plugins or mods for minecraft and discord bots.   
+I mainly make games primarly in unity, sometimes server plugins or mods for minecraft and discord bots.
+
+mainly use Java and C#.
 
 aside from programming I also enjoy watching anime and gaming
 
@@ -32,7 +34,7 @@ her tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
 
 </p>
 
-<b> current- </b> learning ASM, working on tetris and small programs 
+<b> current projects- </b> learning ASM, working on tetris, setting up a minecraft server with my own plugins and planning out esoteric languages I may try to make.
 
 <h2> latest game </h3>
 <p>try my newest game:  https://play.unity.com/mg/other/tetris-pw </p>
