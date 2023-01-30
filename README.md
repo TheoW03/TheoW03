@@ -19,9 +19,7 @@ her tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TheoW03&theme=cobalt&layout=compact=0&date_format=M%20j%5B%2C%20Y%5D&border=00000000&background=00000000&stroke=9C13CB&ring=9412C1D5&fire=C46B2E&currStreakNum=36FEA9&sideNums=825AFFEA&currStreakLabel=FF36F0EA&sideLabels=825AFFEA&dates=825AFFEA)](https://github.com/TheoW03?tab=repositories)
 
-
-
-<h2> myself as a developer </h2>
+<h2> langauges I know </h2>
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -34,5 +32,8 @@ her tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
 
 </p>
 
+<b> what Im doing right now- </b> learning ASM and Working on useful programs 
+
+<h2> latest game </h3>
 <p>try my newest game:  https://play.unity.com/mg/other/tetris-pw </p>
 
