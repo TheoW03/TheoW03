@@ -34,13 +34,5 @@ her tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
 
 </p>
 
-(my favorite is C# and Java)
-
-<b>current project -</b> A tetris remake on unity and I want to do non engine game design.
-
-<b>what I hope to achieve 2023-</b> Learn unity 3D, ASM, OpenGL, and prepare to earn money from this fun hobby. 
-
-<b>frameworks/signifincat libraries I know- </b> unity, pyagame, Discord botting API (JS's and python's), Java swing, tkinter, Fabric modding API for minecraft and many more...
-
 <p>try my newest game:  https://play.unity.com/mg/other/tetris-pw </p>
 
