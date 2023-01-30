@@ -32,7 +32,7 @@ her tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
 
 </p>
 
-<b> what Im doing right now- </b> learning ASM and Working on useful programs 
+<b> current- </b> learning ASM, working on tetris and small programs 
 
 <h2> latest game </h3>
 <p>try my newest game:  https://play.unity.com/mg/other/tetris-pw </p>
