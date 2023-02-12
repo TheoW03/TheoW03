@@ -34,7 +34,7 @@ her tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
 
 </p>
 
-<b> current projects- </b> learning ASM, working on tetris, setting up a minecraft server with my own plugins and planning out esoteric languages I may try to make.
+<b> current projects- </b> learning ASM, working on tetris, setting up a minecraft server with my own plugins and planning out esoteric languages I may try to make. and coding little discord bots Just to ease the pain of taking several math classes 
 
 <h2> latest game </h3>
 <p>try my newest game:  https://play.unity.com/mg/other/tetris-pw </p>
