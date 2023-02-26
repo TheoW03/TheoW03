@@ -39,3 +39,4 @@ her tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
 <h2> latest game </h3>
 <p>try my newest game:  https://play.unity.com/mg/other/tetris-pw </p>
 
+look at my waka time for a more accurate representation of how much time I code. 
