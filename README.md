@@ -7,7 +7,7 @@
 
 I am a 2nd year uni student with major studies in Computer science, with minor studies in math and Game design. 
 
-I mainly make video games primarly in unity, sometimes server plugins or mods for minecraft and discord bots. normally what ever Im in the mood to amke
+I mainly make video games primarly in unity, sometimes server plugins or mods for minecraft and discord bots. normally what ever Im in the mood to make
 
 I mainly use Java and C#. 
 
