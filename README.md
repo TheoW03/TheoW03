@@ -2,19 +2,14 @@
 
 <b>name: </b> Theo
 
-I am a 2nd year uni student with major studies in Computer science, with minor studies in math and Game design. 
+i am a 2nd year university Computer science student with a strong passion for Software engineering.
 
-right now im trying to make my own game engine in openGL
+my favorite languages are Java and C# and my main focus is game dev and computer graphics. sepcifcally 2D as of right now
 
-I mainly make video games primarly in unity, sometimes server plugins or mods for minecraft and discord bots. normally what ever Im in the mood to make
+I also enjoy gaming, anime and logic. as well as being a morning person 
 
-I mainly use Java and C#. 
-
-other things I enjoy is gaming and anime. 
-
-pfp source: Owetreylp
-
-her tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
+pfp source
+tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
 
 # stats
 
