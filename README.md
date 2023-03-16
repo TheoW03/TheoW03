@@ -1,10 +1,10 @@
 # hello
 
-<b>name: </b> Theo
+my name is Theo,
 
-i am a 2nd year university Computer science student with a strong passion for Software engineering.
+I am a 2nd year university Computer science student with a strong passion for Software engineering.
 
-my favorite languages are Java and C# and my main focus is game dev and computer graphics. sepcifcally 2D as of right now
+my favorite programming languages are Java and C# and my main focus is game dev and computer graphics. sepcifcally 2D as of right now
 
 I also enjoy gaming, anime and logic. as well as being a morning person 
 
