@@ -2,9 +2,6 @@
 
 <b>name: </b> Theo
 
-<b>pronouns: </b> He/him
-
-
 I am a 2nd year uni student with major studies in Computer science, with minor studies in math and Game design. 
 
 right now im trying to make my own game engine in openGL
