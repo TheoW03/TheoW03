@@ -34,7 +34,8 @@ tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-
+ <a href="https://unity.com/"target="_blank" rel="noreferrer">
+  <img src=https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Unity-Dark.svg width = "36" height="36"></a>
 </p>
 
 <b> current projects- </b> learning ASM, working on tetris, setting up a minecraft server with my own plugins and planning out esoteric languages I may try to make one, also making a game engine in java openGL
