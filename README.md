@@ -19,9 +19,6 @@ tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
 
 <br>
 
-<h4> hours programmed </h4>
-<p> record since December 2022 this has an offset of about 24 mins a keystroke </p>
-
 [![wakatime](https://wakatime.com/badge/user/729a2b32-d39a-4b30-a358-dbf645c5ac87.svg)](https://wakatime.com/@729a2b32-d39a-4b30-a358-dbf645c5ac87)
 
 <h2> langauges I know </h2>
