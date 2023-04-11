@@ -36,7 +36,7 @@ tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
 </p>
 
 <b> current projects- </b> 2d game engine, right now the physics(lighting and rays specifically)(cokded in java), JS like lang to MIPS ASM transpiler(C++), 
-and refirbishing my tetris game so I can re realease it (unity and C#)
+and refirbishing my tetris game so I can re realease it (unity and C#), future plans to learn 3d and bring my engine to 3d
 
 <h2> latest game </h3>
 <p>try my newest game:  https://play.unity.com/mg/other/tetris-pw </p>
