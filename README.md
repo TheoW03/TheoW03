@@ -6,7 +6,7 @@ I am a 2nd year university Computer science student, minor studies in game desig
 
 I have a strong passion for building software.
 
-my favorite languages are Java, C# and C++. and my main focus is game dev and computer graphics. sepcifcally 2D as of right now
+my favorite languages are Java, C# and C++. and my main focus is game dev and coputer graphics. sepcifcally 2D as of right now
 
 I also enjoy gaming, anime and logic. as well as being a morning person 
 
