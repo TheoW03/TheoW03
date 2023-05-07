@@ -35,8 +35,8 @@ tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-<b> current projects- </b> 2d game engine, right now the physics(lighting and rays specifically)(coded in java), JS like lang to MIPS ASM transpiler(C++), future plans to learn 3d and bring my engine to 3d,
-turning my old PC into a linux webserver. testing by setting up a minecraft server for some friends :3. 
+<b> current projects- </b> 2d game engine, right now the physics(collisons and renderer)(coded in java), JS like lang to MIPS ASM transpiler(C++), future plans to learn 3d and bring my engine to 3d,
+Turning my old PC into a webserver
 
 <h2> latest game </h3>
 <p>try my newest game:  https://play.unity.com/mg/other/tetris-pw </p>
