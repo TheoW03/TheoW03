@@ -2,7 +2,7 @@
 
 my name is Theo,
 
-I am a 2nd year university Computer science student, minor studies in game design, 
+I am a 3rd year university Computer science student, minor studies in game design, 
 
 I have a strong passion for building software.
 
