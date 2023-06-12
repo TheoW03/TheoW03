@@ -41,4 +41,4 @@ Turning my old PC into a webserver
 
 <h2> latest game </h3>
 <p>try my newest game:  https://play.unity.com/mg/other/my-new-microgame-10097 </p>
-update will come out for it late may 2023. 
+the update is out
