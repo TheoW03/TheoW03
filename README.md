@@ -11,9 +11,6 @@ level applications like compilers.
 
 I also enjoy gaming, anime and logic. as well as being a morning person 
 
-pfp source
-tiktok: https://www.tiktok.com/@owtreyalpofficial?lang=en
-
 # stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&layout=compact&show_icons=true&card_width=300px&card_height=400px&theme=radical#gh-dark-mode-only)](https://github.com/TheoW03?tab=repositories)
