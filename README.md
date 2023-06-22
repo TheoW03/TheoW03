@@ -36,6 +36,6 @@ I also enjoy gaming, anime and logic. as well as being a morning person
 <b> current projects- </b> 2d game engine, right now the physics(collisons and renderer)(coded in java), JS like lang to MIPS ASM transpiler(C++), future plans to learn 3d and bring my engine to 3d,
 Turning my old PC into a webserver
 
-<h2> latest game </h3>
+<h2> latest completed projects</h3>
 <p>try my newest game:  https://play.unity.com/mg/other/my-new-microgame-10097 </p>
-
+<p>take a look at my open source game engine:  https://github.com/TheoW03/JNebula </p>
