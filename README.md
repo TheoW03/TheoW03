@@ -6,7 +6,7 @@ I am a 3rd year university Computer science student, minor studies in game desig
 
 I have a strong passion for building software.
 
-my favorite languages are Java, C# and C++. and my main focus is game dev and computer graphics. sepcifcally 2D as of right now, and I dabble around building system
+my preferred languages are Java, C# and C++. and my main focus is game dev and computer graphics. sepcifcally 3D as of right now, and I dabble around building system
 level applications like compilers. 
 
 I also enjoy gaming, anime and logic. as well as being a morning person 
@@ -36,6 +36,8 @@ I also enjoy gaming, anime and logic. as well as being a morning person
 <b> current projects- </b> JNebula and MIPS trans.
 
 <h2> latest completed projects</h3>
+
+<p>take a look at JNebula:  https://github.com/TheoW03/JNebula </p>
+
 <p>try my newest game:  https://play.unity.com/mg/other/my-new-microgame-10097 </p>
 
-<p>take a look at my open source game engine:  https://github.com/TheoW03/JNebula </p>
