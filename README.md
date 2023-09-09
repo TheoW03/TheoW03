@@ -9,7 +9,7 @@ I have a strong passion for building software.
 my preferred languages are Java, C# and C++. and my main focus is game dev and computer graphics. sepcifcally 3D as of right now, and I dabble around building system
 level applications like compilers. 
 
-I also enjoy gaming, anime. and a I am a morning person
+I also enjoy gaming anime and being a furry >:3  
 
 # stats
 
