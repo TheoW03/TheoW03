@@ -6,8 +6,9 @@ I am a 3rd year university Computer science student, minor studies in game desig
 
 I have a strong passion for building software.
 
-my preferred languages are Java, C# and C++. and my main focus is game dev and computer graphics. sepcifcally 3D as of right now, and I dabble around building system
-level applications like compilers. 
+my preferred languages are Java, C# and C++, 
+
+and my projects revolve around Computer graphics, Computer architecture, and language design.  
 
 I also enjoy gaming anime and being a furry >:3  
 
@@ -33,7 +34,7 @@ I also enjoy gaming anime and being a furry >:3
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-<b> current projects- </b> QtMRA and MIPS trans.
+<b> current projects- </b> QtMRA, an ARM 32 bit instruction, 12 bit immediate assembler and MIPS trans, a 32 bit JS/C like syntax to MIPS32 Assembly transpiler. both written in C++ and are technically turring complete (by the bare minimum)
 
 <h2> latest completed projects</h3>
 
