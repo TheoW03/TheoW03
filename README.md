@@ -34,7 +34,7 @@ I also enjoy gaming anime and being a furry >:3
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-<b> current projects- </b> QtMRA, an ARM 32 bit instruction, 12 bit immediate assembler and MTLake32, a 32 bit JS/C/ADA like syntax to MIPS32 Assembly transpiler. both written in C++ and are technically turring complete (by the bare minimum)
+<b> current projects- </b> QtMRA, an ARMv7 32 bit instruction, 12 bit immediate assembler and MTLake32, a 32 bit JS/C/ADA like syntax to MIPS32 Assembly transpiler. both written in C++ and are technically turring complete (by the bare minimum)
 
 <h2> latest completed projects</h3>
 
