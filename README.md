@@ -6,7 +6,7 @@ I am a 3rd year university Computer science student, minor studies in game desig
 
 I have a strong passion for building software.
 
-my preferred languages are Java, C# and C++, 
+my preferred languages are Java, C++, C#, and possibly a functional langauge if I find something I can do in one (if I do, its going to be Ada). 
 
 and my projects revolve around Computer graphics, Computer architecture, and language design.  
 
@@ -34,11 +34,11 @@ I also enjoy gaming anime and being a furry >:3
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-<b> current projects- </b> QtMRA, an ARMv7 32 bit instruction, 12 bit immediate assembler and MTLake32, a 32 bit JS/C/ADA like syntax to MIPS32 Assembly transpiler. both written in C++ and are technically turring complete (by the bare minimum)
+<b> current projects- </b> QTMRA, a 32 bit emulator for ARMv7, and MTLake, a JS/C/ADA style syntax to MIPS32 ASM programming langauge transpiler. 
 
 <h2> latest completed projects</h3>
 
-<p>take a look at JNebula:  https://github.com/TheoW03/JNebula </p>
+<p>JNebula:  https://github.com/TheoW03/JNebula </p>
 
-<p>try my newest game:  https://play.unity.com/mg/other/my-new-microgame-10097 </p>
+<p>tetris:  https://play.unity.com/mg/other/my-new-microgame-10097 </p>
 
