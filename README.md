@@ -6,7 +6,7 @@ I am a 3rd year university Computer science student, minor studies in game desig
 
 I have a strong passion for building software.
 
-my preferred languages are Java, C++, C#, and possibly a functional langauge if I find something I can do in one (if I do, its going to be Ada). 
+my preferred languages are Java, C++, C#, and possibly a functional langauge
 
 and my projects revolve around Computer graphics, Computer architecture, and language design.  
 
