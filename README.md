@@ -8,7 +8,7 @@ I have a strong passion for building software.
 
 my preferred languages are Java, C++, C#, and possibly a functional langauge
 
-and my projects revolve around Computer graphics, Computer architecture, and language design.  
+and my projects revolve around Computer graphics, Computer architecture, and compiler design.  
 
 I also enjoy gaming anime and being a furry >:3  
 
