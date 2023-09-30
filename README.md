@@ -34,7 +34,7 @@ I also enjoy gaming anime and being a furry >:3
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-<b> current projects- </b> QTMRA, a 32 bit emulator for ARMv7, and MTLake, a JS/C/ADA style syntax to MIPS32 ASM programming langauge transpiler. 
+<b> current projects- </b> QTMRA, a 32 bit emulator for ARMv7, and Lake, a JS/C/ADA style syntax to MIPS32 ASM programming langauge transpiler. 
 
 <h2> latest completed projects</h3>
 
