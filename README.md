@@ -1,6 +1,6 @@
 # Hello World
 
-I am professionally Known as Theo, but Personally I am Lillith,
+my name is Lillith,
 
 I am a 3rd year university Computer science student, minor studies in game design, 
 
