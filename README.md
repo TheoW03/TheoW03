@@ -6,9 +6,9 @@ I am a 3rd year university Computer science student, minor studies in game desig
 
 I have a strong passion for building software.
 
-my preferred languages are Java, C++, C#, and possibly a functional langauge
+my preferred languages are Java, C++, C#,...
 
-and my projects revolve around Computer graphics, Computer architecture, and compiler design.  
+and my projects revolve around Computer graphics and compilers
 
 I also enjoy gaming anime and being a furry >:3  
 
