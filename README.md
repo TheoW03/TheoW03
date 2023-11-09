@@ -1,14 +1,14 @@
 # Hello World
 
-my name is Lillith,
+my name is Theo (professionally/legally), Lillith (if friend/acquaintance) or Lulu or Lilly (if you want to be cute :3c)
 
-I am a 3rd year university Computer science student, minor studies in game design, 
+I am a 3rd year university Computer science student, minor studies in game design 
 
 I have a strong passion for building software.
 
 my preferred languages are Java, C++, C#,...
 
-and my projects revolve around Computer graphics and compilers
+I spend most of my time, working with Computer Graphics or Compilers 
 
 I also enjoy gaming anime and being a furry >:3  
 
