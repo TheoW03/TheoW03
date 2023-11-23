@@ -1,6 +1,6 @@
 # Hello World
 
-my name is Theo (professionally/legally), Lillith (if friend/acquaintance) or Lulu or Lilly (if you want to be cute :3c)
+my name is Theo 
 
 I am a 3rd year university Computer science student, minor studies in game design 
 
