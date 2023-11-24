@@ -4,7 +4,7 @@ my name is Theo, Lillith or Lulu.
 
 I am a 3rd year university Computer science student, minor studies in game design 
 
-I have a strong passion for building software.
+I have a strong passion for building software. and its one of my favorite hobbies to partake in
 
 my preferred languages are Java, C++, C#,...
 
