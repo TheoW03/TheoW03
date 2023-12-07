@@ -1,6 +1,6 @@
 # Hello World
 
-my name is Theo, Lillith or Lulu.  
+my name is Lillith, Lilly or Lulu.  (in a professional sense you may Call me Theo)  
 
 I am a 3rd year university Computer science student, minor studies in game design 
 
