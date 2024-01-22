@@ -6,7 +6,7 @@ I am a 3rd year university Computer science student, minor studies in game desig
 
 I have a strong passion for building software. and its one of my favorite hobbies to partake in
 
-my preferred languages are Java, C++, C#,...
+my preferred languages are C++, java, C#...
 
 I spend most of my time, working on compilers and emulators. 
 
