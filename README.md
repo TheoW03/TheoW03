@@ -15,7 +15,6 @@ I also enjoy gaming anime and being a furry >:3
 # stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&layout=compact&show_icons=true&card_width=300px&card_height=400px&theme=radical#gh-dark-mode-only)](https://github.com/TheoW03?tab=repositories)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TheoW03&theme=radical#gh-dark-mode-only&card_width=300px&card_height=400px)](https://git.io/streak-stats)
 <br>
 
 [![wakatime](https://wakatime.com/badge/user/729a2b32-d39a-4b30-a358-dbf645c5ac87.svg)](https://wakatime.com/@729a2b32-d39a-4b30-a358-dbf645c5ac87)
