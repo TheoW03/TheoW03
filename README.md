@@ -20,7 +20,7 @@ I also enjoy gaming anime and being a furry >:3
 
 [![wakatime](https://wakatime.com/badge/user/729a2b32-d39a-4b30-a358-dbf645c5ac87.svg)](https://wakatime.com/@729a2b32-d39a-4b30-a358-dbf645c5ac87)
 
-<h2> langauges/technologies </h2>
+<h2> Langauges/Technologies </h2>
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
