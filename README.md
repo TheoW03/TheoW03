@@ -13,7 +13,7 @@ I spend most of my time, working on compilers, emulators and occasional game dev
 
 I also enjoy gaming anime and being a furry >:3  
 
-# stats
+# Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&layout=compact&show_icons=true&card_width=300px&card_height=400px&theme=radical#gh-dark-mode-only)](https://github.com/TheoW03?tab=repositories)
 <br>
@@ -34,7 +34,7 @@ I also enjoy gaming anime and being a furry >:3
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-<b> current projects- </b> Lacus (LLVM Backend) and NES Emulator.
+<b> current projects- </b> Lacus (LLVM Backend), NES Emulator, and a few games in the works :3 
 
 <h2> latest completed projects</h3>
 
