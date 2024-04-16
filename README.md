@@ -13,7 +13,6 @@ I spend most of my time, working on compilers, emulators and occasional game dev
 
 I also enjoy gaming anime and being a furry >:3  
 
-pronouns page: https://en.pronouns.page/@Lillith25
 
 # Stats
 
