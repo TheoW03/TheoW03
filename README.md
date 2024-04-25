@@ -11,15 +11,7 @@ my preferred languages are C++, java, C#...
 
 I spend most of my time, working on compilers, emulators and occasional game dev. 
 
-I also enjoy gaming anime and being a furry >:3  
-
-
-# Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&layout=compact&show_icons=true&card_width=300px&card_height=400px&theme=radical#gh-dark-mode-only)](https://github.com/TheoW03?tab=repositories)
-<br>
-
-[![wakatime](https://wakatime.com/badge/user/729a2b32-d39a-4b30-a358-dbf645c5ac87.svg)](https://wakatime.com/@729a2b32-d39a-4b30-a358-dbf645c5ac87)
+I also enjoy gaming anime and being a furry >:3 
 
 <h2> Langauges/Technologies </h2>
 
@@ -34,6 +26,15 @@ I also enjoy gaming anime and being a furry >:3
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
+
+# Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&layout=compact&show_icons=true&card_width=300px&card_height=400px&theme=radical#gh-dark-mode-only)](https://github.com/TheoW03?tab=repositories)
+<br>
+
+[![wakatime](https://wakatime.com/badge/user/729a2b32-d39a-4b30-a358-dbf645c5ac87.svg)](https://wakatime.com/@729a2b32-d39a-4b30-a358-dbf645c5ac87)
+
+
 
 <b> current projects- </b> Lacus (LLVM Backend), NES Emulator, and a few games in the works :3 
 
