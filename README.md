@@ -1,9 +1,9 @@
-# Hello World
+# Hello World 🌸
 
-my name is Lillith, Lilly or Lulu.  (in a professional sense you may Call me Theo)  
+my name is Lillith, Lilly or Lulu 🌸.  (in a professional sense you may Call me Theo)  
 
 I am a 3rd year university Computer science student, minor studies in game design 
-and a part time indie Game developer
+and a part time indie Game developer. working on 3 different prototype projects as of right now. 
 
 I have a strong passion for building software. and its one of my favorite hobbies to partake in
 
