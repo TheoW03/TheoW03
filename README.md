@@ -44,3 +44,4 @@ I also enjoy gaming anime and being a furry >:3
 
 <p>tetris:  https://play.unity.com/mg/other/my-new-microgame-10097 </p>
 
+<p> my open source emulator: https://github.com/TheoW03/6502Emulator</p>
