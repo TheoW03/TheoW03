@@ -36,7 +36,7 @@ I also enjoy gaming anime and being a furry >:3
 
 
 
-<b> current projects- </b> Lacus (LLVM Backend), NES Emulator, and a few games in the works :3 
+<b> current projects- </b> Lacus Compiler (working on a LLVM Backend), NES Emulator, and a few games in the works :3 
 
 <h2> latest completed projects</h3>
 
