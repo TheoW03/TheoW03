@@ -36,7 +36,7 @@ I also enjoy gaming anime and being a furry >:3
 
 
 
-<b> current projects- </b> Lacus Compiler (working on a LLVM Backend), NES Emulator, Slowly becoming transfeme Terry A davis :3
+<b> Current Projects- </b> Lacus Compiler (working on a LLVM Backend), NES Emulator, Slowly becoming transfeme Terry A davis :3
 
 <h2> latest completed projects</h3>
 
