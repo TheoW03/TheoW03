@@ -3,13 +3,12 @@
 my name is Lillith, Lilly or Lulu.  (in a professional sense you may Call me Theo)  
 
 I am a 4th year university Computer science student, minor studies in game design 
-and a part time indie Game developer. working on 3 different prototype as of right now. 
 
 I have a strong passion for building software. and its one of my favorite hobbies to partake in
 
 my preferred languages are C++, java, C#...
 
-I spend most of my time, working on compilers, emulators and occasional game dev. 
+and I spend most of my time working on lowlevel development.
 
 I also enjoy gaming anime and being a furry >:3 
 
@@ -35,8 +34,7 @@ I also enjoy gaming anime and being a furry >:3
 [![wakatime](https://wakatime.com/badge/user/729a2b32-d39a-4b30-a358-dbf645c5ac87.svg)](https://wakatime.com/@729a2b32-d39a-4b30-a358-dbf645c5ac87)
 
 
-
-<b> Current Projects- </b> Lacus Compiler (working on a LLVM Backend), NES Emulator, Slowly becoming transfeme Terry A davis :3
+<b> Current Projects- </b> Slowly becoming transfeme Terry A davis, as I learn more about Compilers and operating systems :3, Lake Kernel when.  
 
 <h2> latest completed projects</h3>
 
