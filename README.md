@@ -8,7 +8,7 @@ I have a strong passion for building software. and its one of my favorite hobbie
 
 my preferred languages are C++, java, C#...
 
-and I spend most of my time working on lowlevel development. (like compilers, emulators....) 
+and I spend most of my time working on compilers and programming langauges :3 
 
 I also enjoy gaming anime and being a furry >:3 
 
@@ -34,7 +34,7 @@ I also enjoy gaming anime and being a furry >:3
 [![wakatime](https://wakatime.com/badge/user/729a2b32-d39a-4b30-a358-dbf645c5ac87.svg)](https://wakatime.com/@729a2b32-d39a-4b30-a358-dbf645c5ac87)
 
 
-<b> Current Projects- </b> Slowly becoming transfeme Terry A davis, as I learn more about Compilers and operating systems :3, Lake Kernel when.  
+<b> Current Projects- </b> LLVM backend for lake and starting a new project...
 
 <h2> latest completed projects</h3>
 
