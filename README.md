@@ -34,9 +34,9 @@ I also enjoy gaming anime and being a furry >:3
 [![wakatime](https://wakatime.com/badge/user/729a2b32-d39a-4b30-a358-dbf645c5ac87.svg)](https://wakatime.com/@729a2b32-d39a-4b30-a358-dbf645c5ac87)
 
 
-<b> Current Projects- </b> LLVM backend for lake and starting a new project...
+<b> Current Projects- </b> Perenial and Tetroid. as well as a few other stuff
 
-<h2> latest completed projects</h3>
+<h2> Cool projects </h3>
 
 <p>JNebula:  https://github.com/TheoW03/JNebula </p>
 
