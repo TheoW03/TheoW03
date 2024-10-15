@@ -8,7 +8,7 @@ I have a strong passion for building software. and its one of my favorite hobbie
 
 my preferred languages are C++, java, C#...
 
-and I spend most of my time working on compilers and programming langauges :3 
+I spend most of my time usually creating dev tools and learning 
 
 I also enjoy gaming anime and being a furry >:3 
 
