@@ -2,7 +2,7 @@
 
 my name is Lillith, Lilly or Lulu.  (in a professional sense you may Call me Theo)  
 
-I am a 4th year university Computer science student, minor studies in game design 
+I am a 4th year university Computer science student
 
 I have a strong passion for building software. and its one of my favorite hobbies to partake in
 
