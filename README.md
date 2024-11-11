@@ -1,16 +1,12 @@
 # Hello World 🌸
 
-my name is Lillith, Lilly or Lulu.  (in a professional sense you may Call me Theo)  
-
 I am a 4th year university Computer science student
 
 I have a strong passion for building software. and its one of my favorite hobbies to partake in
 
 my preferred languages are C++, java, C#...
 
-I spend most of my time usually creating dev tools and learning 
-
-I also enjoy gaming anime and being a furry >:3 
+I spend most of my time usually creating dev tools and learning.  
 
 very big <a href=https://xenia-linux-site.glitch.me/> Xenia-linux </a> fan
 
