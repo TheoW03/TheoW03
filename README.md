@@ -8,8 +8,6 @@ my preferred languages are C++, java, C#...
 
 I spend most of my time usually creating dev tools and learning.  
 
-very big <a href=https://xenia-linux-site.glitch.me/> Xenia-linux </a> fan
-
 
 <h2> Langauges/Technologies </h2>
 
