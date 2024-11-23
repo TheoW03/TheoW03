@@ -6,7 +6,8 @@ I have a strong passion for building software. and its one of my favorite hobbie
 
 my preferred languages are C++, java, C#...
 
-I spend most of my time usually creating dev tools and learning.  
+I spend most of my time either working on programming langauges (designing them or creating a compiler for them) 
+or doing something oriented around the Nintendo Entertainment System (usually making a game of somesort, or working on my NES console emulator) 
 
 
 <h2> Langauges/Technologies </h2>
