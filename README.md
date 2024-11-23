@@ -2,9 +2,9 @@
 
 I am a 4th year university Computer science student
 
-I have a strong passion for building software. and its one of my favorite hobbies to partake in
+I have a really strong passion for building software. 
 
-my preferred languages are C++, java, C#...
+the langauges I work the most in are, Java, C#, C/C++.   
 
 I spend most of my time either working on programming langauges (designing them or creating a compiler for them) 
 or doing something oriented around the Nintendo Entertainment System (usually making a game of somesort, or working on my NES console emulator) 
@@ -32,7 +32,7 @@ or doing something oriented around the Nintendo Entertainment System (usually ma
 [![wakatime](https://wakatime.com/badge/user/729a2b32-d39a-4b30-a358-dbf645c5ac87.svg)](https://wakatime.com/@729a2b32-d39a-4b30-a358-dbf645c5ac87)
 
 
-<b> Current Projects- </b> Perenial and Tetroid. as well as a few other stuff
+<b> Current Projects- </b> Perenial, Tetroid and a NES game 
 
 <h2> Cool projects </h3>
 
