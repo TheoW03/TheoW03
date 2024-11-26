@@ -19,7 +19,7 @@ or doing something oriented around the Nintendo Entertainment System (usually ma
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-# Stats
+# Stats 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&layout=compact&show_icons=true&card_width=300px&card_height=400px&theme=radical#gh-dark-mode-only)](https://github.com/TheoW03?tab=repositories)
 <br>
