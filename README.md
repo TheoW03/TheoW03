@@ -33,8 +33,8 @@ or doing something oriented around the Nintendo Entertainment System (usually ma
 
 <p>JNebula:  https://github.com/TheoW03/JNebula </p>
 
-<p>tetris:  https://play.unity.com/mg/other/my-new-microgame-10097 </p>
+<p>Tetris:  https://play.unity.com/mg/other/my-new-microgame-10097 </p>
 
 <p> peren: https://github.com/Lake-Project/Peren
 
-<p> my open source emulator: https://github.com/TheoW03/6502Emulator</p>
+<p> TetrodNES: https://github.com/TheoW03/TetroidNES</p>
