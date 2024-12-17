@@ -29,9 +29,7 @@ I also daily drive Pop!_OS.
 [![wakatime](https://wakatime.com/badge/user/729a2b32-d39a-4b30-a358-dbf645c5ac87.svg)](https://wakatime.com/@729a2b32-d39a-4b30-a358-dbf645c5ac87)
 
 
-<b> Current Projects- </b> Perenial, Tetroid and a NES game 
-
-<h2> Cool projects </h3>
+<h2> Current or Completed Projects </h3>
 
 
 <a href="https://github.com/TheoW03/NESPong">
