@@ -1,5 +1,7 @@
 # Hello World 🌸
 
+I am a Computer Science university student, graduate May 2025.
+
 I spend most of my time either working on programming langauges (designing them or creating a compiler for them) 
 or doing something oriented around the Nintendo Entertainment System (usually making a game of somesort, or working on my NES game console emulator). 
 I typically work in C++, C# and java. and sometimes a 40 year old assembly langauge when I am bored. 
