@@ -31,6 +31,7 @@ or doing something oriented around the Nintendo Entertainment System (usually ma
 
 <h2> Cool projects </h3>
 
+
 <a href="https://github.com/TheoW03/NESPong">
  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoW03&repo=NESPong&theme=transparent&border_color=30363d" /></a>
  
@@ -40,3 +41,7 @@ or doing something oriented around the Nintendo Entertainment System (usually ma
 
 <a href="https://github.com/TheoW03/Peren">
  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoW03&repo=Peren&theme=transparent&border_color=30363d" /></a>
+
+<a href="https://github.com/TheoW03/JNebula">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoW03&repo=JNebula&theme=transparent&border_color=30363d" /></a>
+ 
