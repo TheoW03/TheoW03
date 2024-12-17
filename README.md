@@ -1,8 +1,10 @@
 # Hello World 🌸
 
-the langauges I work the most in are, Java, C#, C/C++.   
 I spend most of my time either working on programming langauges (designing them or creating a compiler for them) 
-or doing something oriented around the Nintendo Entertainment System (usually making a game of somesort, or working on my NES game console emulator) 
+or doing something oriented around the Nintendo Entertainment System (usually making a game of somesort, or working on my NES game console emulator). 
+I typically work in C++, C# and java. and sometimes a 40 year old assembly langauge when I am bored. 
+
+I also daily drive Pop!_OS.  
 
 <!--
 <h2> Langauges/Technologies </h2>
