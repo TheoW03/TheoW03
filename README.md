@@ -6,7 +6,7 @@ I spend most of my time either working on programming langauges (designing them 
 or doing something oriented around the Nintendo Entertainment System (usually making a game of somesort, or working on my NES game console emulator). 
 I typically work in C++, C# and java. and sometimes a 40 year old assembly langauge when I am bored. 
 
-I also daily drive Pop!_OS. and expiremented with arch before. 
+I also daily drive Pop!_OS. 
 
 <!--
 <h2> Langauges/Technologies </h2>
