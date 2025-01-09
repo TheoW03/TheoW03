@@ -41,8 +41,8 @@ I also daily drive Pop!_OS.
 <a href="https://github.com/TheoW03/TetroidNES">
  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoW03&repo=TetroidNES&theme=radical&border_color=30363d" /></a>
 
-<a href="https://github.com/TheoW03/Peren">
- <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoW03&repo=Peren&theme=radical&border_color=30363d" /></a>
+<a href="https://github.com/TheoW03/Hazel">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoW03&repo=Hazel&theme=radical&border_color=30363d" /></a>
 
 <a href="https://github.com/TheoW03/JNebula">
  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoW03&repo=JNebula&theme=radical&border_color=30363d" /></a>
