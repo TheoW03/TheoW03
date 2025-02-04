@@ -1,6 +1,6 @@
 # Hello World 🌸
 
-I am a Computer Science university student, graduate May 2025.
+I am a Computer Science university student, graduating in May of 2025.
 
 I typically work in C++, C# and java. 
 and sometimes a 40 year old assembly langauge when I am bored. 
