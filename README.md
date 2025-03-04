@@ -25,8 +25,10 @@ I also daily drive Pop!_OS.
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p> -->
-
-# Langauges 
+<details>
+ <summary><b> Profile Statistics </b> </summary>
+ 
+## Langauges 
 [![wakatime](https://wakatime.com/badge/user/729a2b32-d39a-4b30-a358-dbf645c5ac87.svg)](https://wakatime.com/@729a2b32-d39a-4b30-a358-dbf645c5ac87)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoW03&layout=compact&show_icons=true&card_width=300px&card_height=400px&theme=radical#gh-dark-mode-only)](https://github.com/TheoW03?tab=repositories)
@@ -49,4 +51,4 @@ I also daily drive Pop!_OS.
 
 <a href="https://github.com/TheoW03/JNebula">
  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoW03&repo=JNebula&theme=radical&border_color=30363d" /></a>
- 
+</details>
