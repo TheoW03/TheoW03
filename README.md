@@ -5,7 +5,8 @@ I am a Computer Science university student, graduating in May of 2025.
 I primarly work on programming languages and compilers. or Emulating the NES. or something centered around NES development. such as creating games to run on the NES, emulation and dev tools. 
 
 I typically work in C++, C# and java. and sometimes 6502 assembly, cc65/cl65 assembler primarily.
-I also know  C, Haskell, python and JS.
+
+Im also familar with C, Haskell, python and JS.
 
 I also daily drive Pop!_OS. 
 
