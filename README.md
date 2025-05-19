@@ -1,6 +1,6 @@
 # Hello World 🌸
 
-I am a newly graduated Computer Science Major
+I am a newly Graduated Computer Science Major
 
 I primarly work on Programming Languages and Compilers. or Emulating the NES. or something centered around NES Development. 
 such as Creating Games to run on the NES, and developer tools, like disassemblers. 
