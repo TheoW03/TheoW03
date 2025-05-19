@@ -1,6 +1,6 @@
 # Hello World 🌸
 
-I am a Computer Science university student, graduating in May of 2025.
+I am a newly graduated Computer Science Major
 
 I primarly work on Programming Languages and Compilers. or Emulating the NES. or something centered around NES Development. 
 such as Creating Games to run on the NES, and developer tools, like disassemblers. 
