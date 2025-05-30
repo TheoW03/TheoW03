@@ -7,7 +7,7 @@ such as Creating Games to run on the NES, and developer tools, like disassembler
 
 I typically work in C++, C# and java. and sometimes 6502 assembly, cc65/cl65 assembler primarily.
 
-Im also familar with C, Haskell, python and JS.
+Im also familar with C, Haskell, python JS, and flutter-dart.
 
 I also daily drive Pop!_OS. 
 
