@@ -1,15 +1,10 @@
 # Hello World 🌸
 
-I am a newly Graduated Computer Science Major
+I am a Computer Science graduate, aspiring Systems/Low-level Software Engineer, and passionate Free and Open Source Software advocate.
 
-I primarly work on Programming Languages and Compilers. or Emulating the NES. or something centered around NES Development. 
-such as Creating Games to run on the NES, and developer tools, like disassemblers. 
+My primary insterests are Programming Languages and Compilers; and NES (Nintendo Entertainment System) development (Emulators, Games...). Im also familar with Full stack web development (Flutter and ASP .NET).
+The langauges I typically work in are C++, C# and java. as well as 6502 assembly. I also daily drive Pop!_OS.
 
-I typically work in C++, C# and java. and sometimes 6502 assembly, cc65/cl65 assembler primarily.
-
-Im also familar with C, Haskell, python JS, and flutter-dart.
-
-I also daily drive Pop!_OS. 
 
 <details>
  <summary><b> Profile Statistics </b> </summary>
