@@ -1,6 +1,6 @@
 # Hello World 🌸
 
-I am a Computer Science graduate, aspiring Systems/Low-level Software Engineer, and passionate Free and Open Source Software advocate.
+I am a Computer Science graduate
 
 My primary insterests are Programming Languages and Compilers; and NES (Nintendo Entertainment System) development (Emulators, Games...). Im also familar with Full stack web development (Flutter and ASP .NET).
 The langauges I typically work in are C++, C# and java. as well as 6502 assembly. I also daily drive Pop!_OS.
