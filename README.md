@@ -1,6 +1,6 @@
 # Hello World 🌸
 
-check me out on <a href="https://github.com/TheoW03/NESPong">Codeberg</a>
+check me out on <a href="https://codeberg.org/TheoW03?tab=overview">Codeberg</a>
 
 <!--
 I am a Computer Science graduate
