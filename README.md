@@ -12,7 +12,8 @@ Codeberg offers a welcoming environment for collaboration, where projects can th
 Its nonprofit structure and focus on ethical stewardship provide a space where developers can work openly and responsibly. 
 Moving my projects there allows me to participate in a community that values openness, accessibility, and long-term sustainability, which aligns with the principles I want to support in my work.
 
-I will however keep my account to report issues of software I use. 
+I will however keep my account to report issues of software I use. but for software I work on, I will be using codeberg.
+
 
 
 <!--
