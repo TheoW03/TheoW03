@@ -1,6 +1,8 @@
 # Hello World 🌸
 
-check me out on <a href="https://codeberg.org/TheoW03?tab=overview">Codeberg</a>
+ 
+I have made the switch to <a href="https://codeberg.org/TheoW03?tab=overview">Codeberg</a> for hosting my git repositories for the forseeable future.
+
 
 <!--
 I am a Computer Science graduate
