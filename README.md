@@ -2,8 +2,15 @@
  
 > [!IMPORTANT]
 >
-> As of 8/28/2025 all of my personal repositories have been migrated to [Code berg](https://codeberg.org/TheoW03).  
+> As of 8/28/2025 all of my personal repositories have been migrated to [Code berg](https://codeberg.org/TheoW03). where I’ll continue hosting, maintaining, and collaborating on my work.
 
+## My reasoning
+
+While GitHub has been considered the industry standard for years, 
+I wanted to explore a more community-driven alternative that emphasizes transparency, privacy, and open-source principles. 
+Codeberg offers a welcoming environment for collaboration, where projects can thrive without the influence of corporate interests. 
+Its nonprofit structure and focus on ethical stewardship provide a space where developers can work openly and responsibly. 
+Moving my projects there allows me to participate in a community that values openness, accessibility, and long-term sustainability, which aligns with the principles I want to support in my work.
 
 <!--
 I am a Computer Science graduate
