@@ -1,5 +1,8 @@
 # Hello World 🌸
 
+check me out on <a href="https://github.com/TheoW03/NESPong">Codeberg</a>
+
+<!--
 I am a Computer Science graduate
 
 My primary insterests are Programming Languages and Compilers; and NES (Nintendo Entertainment System) development (Emulators, Games...). Im also familar with Full stack development (Flutter and ASP .NET).
@@ -32,5 +35,6 @@ The langauges I typically work in are C++, C#, and 6502 assembly. I also daily d
 <a href="https://github.com/TheoW03/JNebula">
  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoW03&repo=JNebula&theme=radical&border_color=30363d" />
 </a>
+-->
 
 
