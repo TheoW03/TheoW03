@@ -1,6 +1,8 @@
 
  
-I have made the switch to <a href="https://codeberg.org/TheoW03?tab=overview">Codeberg</a> for hosting my git repositories for the forseeable future.
+> [!IMPORTANT]
+>
+> As of 8/28/2025 all of my personal repositories have been migrated to [Code berg](https://codeberg.org/TheoW03).  
 
 
 <!--
