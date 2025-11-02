@@ -3,6 +3,7 @@
 > [!IMPORTANT]
 >
 > As of 8/28/2025 all of my personal repositories have been migrated to [Code berg](https://codeberg.org/TheoW03). where I’ll continue hosting, maintaining, and collaborating on my work.
+> I will however save this for posting issues, maybe contribute to a few open source projects but for projects I work on it will be on codeberg
 
 
 
